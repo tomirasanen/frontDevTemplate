@@ -1,26 +1,26 @@
-$item-width: 100%;
+$exampleItem-width: 100%;
 
-#products {
+#examples {
   .imageheader {
-     @mixin backImage '../images/backgrounds/swimming.jpg', auto, transparent, transparent
+     @mixin backImage '../images/backgrounds/exampleArea.png', auto, transparent, transparent
   }
 
-  .product-list {
+  .example-list {
     padding: 0;
     margin: 0;
     list-style: none;
     display: flex;
     flex-flow: row wrap;
 
-    .product-item {
+    .example-item {
       position: relative;
       color: $color-background;
       overflow: hidden;
 
-      width: calc($item-width/2);
-      @media $small { width: calc($item-width/3); }
-      @media $medium { width: calc($item-width/4); }
-      @media $large { width: calc($item-width/6); }
+      width: calc($exampleItem-width/2);
+      @media $small { width: calc($exampleItem-width/3); }
+      @media $medium { width: calc($exampleItem-width/4); }
+      @media $large { width: calc($exampleItem-width/6); }
 
       transition: all .4s ease-in-out;
       opacity: .8;
@@ -30,13 +30,13 @@ $item-width: 100%;
         transform: scale(1.3);
         z-index: 1;
 
-        .product-name {
+        .example-name {
           display: block;
           animation: slideInUp 1s;
         }
       }
 
-      .product-name {
+      .example-name {
         background: $red;
         color: $yellow;
         font-weight: $font-weight-heavy;
@@ -49,11 +49,11 @@ $item-width: 100%;
       } /*.product-name*/
 
       &:hover, &:focus {
-        .product-name {
+        .example-name {
           display: block;
         }
       }
 
-    } /*.product-item*/
-  }/*.product-list*/
-} /* products*/
+    } /*.example-item*/
+  }/*.example-list*/
+} /* examples*/

@@ -1,0 +1,17 @@
+.register-btn:hover, .register-btn:focus {
+  background: #C17CCF;
+}
+
+.register-btn, .search-btn {
+  border-radius: 0px 2px 2px 0px;
+  box-sizing: content-box;
+  background: #8B798C;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: white;
+  padding: 0.35em 0.75em;
+  border: none;
+  font-size: 1.1em;
+  text-decoration: none;
+  cursor: pointer;  
+}

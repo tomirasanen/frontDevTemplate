@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "process/css/_variables.css",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/style.css",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/_mixins.css",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/_base.css",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/sections/_section.css",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/modules/_forms.css",
+			"settings":
+			{
+				"buffer_size": 2091,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "builds/postcss/index.html",
+			"settings":
+			{
+				"buffer_size": 7620,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/modules/_buttons.css",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "process/css/modules/_inputs.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/work/frontDevTemplate/builds/postcss/index.html",
+		"/C/Users/tomira/Downloads/Ex_Files_Forms_Flexbox/Ex_Files_Forms_Flexbox/Exercise Files/Chapter-02/02-08/finished_files/forms.htm",
+		"/C/Users/tomira/Downloads/Ex_Files_Forms_Flexbox/Ex_Files_Forms_Flexbox/Exercise Files/Chapter-03/resources.htm",
+		"/C/Users/tomira/Downloads/Ex_Files_Forms_Flexbox/Ex_Files_Forms_Flexbox/Exercise Files/Chapter-01/01-07/finished-files/search.htm",
+		"/C/Users/tomira/Google Drive/Tekstit/Ystävänpäivä.txt",
+		"/C/Users/tomira/Desktop/repos/git-basics/i2zuzhgo.aed.txt",
+		"/C/Users/tomira/Google Drive/Tiliootteet/28102013.txt",
+		"/C/Users/tomira/Google Drive/Tekstit/Untill then.txt",
+		"/C/Users/tomira/Downloads/Focus.2015.HC.HDRip.XviD.AC3-EVO/Torrent Downloaded From ExtraTorrent.cc.txt",
+		"/C/Users/tomira/ownCloud/MSC/jbridge_pw.txt",
+		"/C/Users/tomira/ownCloud/PURKKI/Valvonta/Tulosteet/Dangerous Goods/VP_2015.TXT",
+		"/C/Users/tomira/Documents/Muutama sana Pariisista.txt",
+		"/C/Users/tomira/ownCloud/UX stuff/killer sites for designer.txt",
+		"/C/Users/tomira/Google Drive/Nuotit/Cabinet/Tomi_listaa.txt",
+		"/C/Users/tomira/Google Drive/BU/rocksmith2014_licence.txt",
+		"/C/Users/tomira/Google Drive/BU/rocksmith2014.txt",
+		"/C/Users/tomira/ownCloud/LYNDA/Diary.txt",
+		"/C/Users/tomira/ownCloud/SOLITA/Solita goes Culture.txt",
+		"/C/Users/tomira/Google Drive/Nuotit/Haipukumies.txt",
+		"/C/Users/tomira/ownCloud/PURKKI/Valvonta/Laskutus/12112014_minutes.txt",
+		"/C/Users/tomira/ownCloud/PURKKI/Valvonta/Laskutus/Valvonnan ja lupien tuotteet.txt",
+		"/C/Users/tomira/Desktop/Surveyn näkymät Valvontaan.txt",
+		"/C/Users/tomira/Desktop/minutes_06112014.txt",
+		"/C/Users/tomira/Google Drive/Kotistudio_/Tomin Listaa/Rakkaus ja metsärahat/Rakkaus ja metsärahat.txt",
+		"/C/Users/tomira/Google Drive/Nuotit/Cabinet/Riipus.txt",
+		"/C/Sites/railsgirls/app/views/layouts/application.html.erb",
+		"/C/Users/tomira/Desktop/aleksi.txt",
+		"/C/Users/tomira/Desktop/M/route.txt",
+		"/C/Sites/railsgirls/app/assets/stylesheets/application.css",
+		"/C/Sites/railsgirls/app/views/ideas/index.html.erb",
+		"/C/Sites/railsgirls/app/views/ideas/edit.html.erb",
+		"/C/Sites/railsgirls/app/views/ideas/new.html.erb",
+		"/C/Sites/railsgirls/app/views/ideas/show.html.erb",
+		"/C/Sites/railsgirls/Gemfile",
+		"/C/Sites/railsgirls/app/models/idea.rb",
+		"/C/Sites/railsgirls/app/views/ideas/_form.html.erb",
+		"/C/Sites/railsgirls/config/routes.rb",
+		"/C/Sites/railsgirls/app/views/pages/info.html.erb",
+		"/C/Sites/railsgirls/app/views/ideas/show.json.jbuilder",
+		"/C/Users/tomira/ownCloud/PURKKI/Valvonta/Tarkistuslistat/Radiokatsastus/Kotimaan liikenteen radiokatsastuslista",
+		"/C/Users/tomira/ownCloud/PURKKI/Valvonta/Tarkistuslistat/Radiokatsastus/liikennealueet.txt",
+		"//192.168.9.70/Tomi/Personal/mSC/kirje kukalle.txt",
+		"/C/Users/tomira/Music/Tomin Listaa/Jokainen on vähän Homo/homo",
+		"/C/Users/tomira/Music/Tomin Listaa/Jouluaattona kännissä/jouluaattona kännissä",
+		"/C/Users/tomira/Music/Tomin Listaa/Karhupuiston Boogie Wookie/karhupuiston biigie wookie",
+		"/C/Users/tomira/Music/Tomin Listaa/Kesähitti/Kesähitti.txt",
+		"/X/Torrents/completed downloads/Earthsea Cycle epub-mobi/pharmakate.txt",
+		"/C/Users/tomira/Music/Tomin Listaa/Holmesin John/Holmesin John.txt",
+		"/C/Users/tomira/AppData/Local/Temp/Temp1_nnls-chroma-0.2.1-win32.zip/nnls-chroma-0.2.1-win32/README",
+		"/C/Users/tomira/Music/Tomin Listaa/Hilma ja Onni/Hilma ja Onni.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "process/css/_variables.css",
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "process/css/style.css",
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "process/css/_mixins.css",
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "process/css/_base.css",
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 470.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "process/css/sections/_section.css",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "process/css/modules/_forms.css",
+					"settings":
+					{
+						"buffer_size": 2091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "builds/postcss/index.html",
+					"settings":
+					{
+						"buffer_size": 7620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "process/css/modules/_buttons.css",
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "process/css/modules/_inputs.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

@@ -1,13 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,500,700);
 @import "variables";
-@import "base";
 @import "mixins";
+@import "base";
 
 @import "modules/header";
-@import "modules/navigation";
-@import "modules/footer";
-@import "modules/section";
+@import "modules/inputs";
+@import "modules/buttons";
+@import "modules/forms";
 
-@import "sections/history";
-@import "sections/products";
-@import "sections/guarantee";
-@import "sections/people";
+@import "sections/section";
